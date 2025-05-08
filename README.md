@@ -51,8 +51,7 @@ Core features of the application include user registration, appointment scheduli
 ## Get in Touch 📬
 
 - **[LinkedIn]**(https://www.linkedin.com/in/gemmechubekele/)
-- **[Twitter]**(https://www.x.com/in/gemmechubekele/)
-
+- **[Twitter]**(https://x.com/GemmechuBekele)
 
 
 ```

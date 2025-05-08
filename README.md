@@ -1,6 +1,6 @@
 # Hi there, I'm Gemmechu!👋
 
-
+![Banner Image](welcome Banner.png)
 ## About Me 🚀
 
 I'm a passionate **Software Engineer /ProBackend developer, ProFrontend Developer/ Mobile Developer** with experience in **Python, JavaScript, Dart, ReactJS, NodeJS, Django, Numpy, Pandas, Matplotlib, React Native, MYSQL, PostgresSQL**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
@@ -27,9 +27,9 @@ I'm a passionate **Software Engineer /ProBackend developer, ProFrontend Develope
 
 ## Featured Projects 💻
 
-### [Project 1 Telemedicine application](project_1_link)
+###  Telemedicine application
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](mock-app.png)
 
 **Telemedicine application** is a **A telemedicine application is a digital health platform designed to facilitate remote consultations between patients and healthcare professionals. It typically consists of a frontend interface, which includes separate web or mobile portals for both patients and doctors. Patients can book appointments, initiate video calls, view prescriptions, and access medical records, while doctors can manage their schedules, conduct virtual consultations, and issue electronic prescriptions. The backend handles all business logic, data storage, user authentication, and integration with services such as payment gateways and video conferencing tools like WebRTC or Twilio.
 
@@ -37,9 +37,9 @@ The system stores medical records, appointment histories, and user profiles in a
 
 Core features of the application include user registration, appointment scheduling, real-time video and audio consultations, in-app messaging, e-prescriptions, payment processing, and notification systems. Advanced implementations may also integrate with wearable health devices for continuous monitoring and data collection.** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Food eCommerce platform](project_2_link)
+### Food e-Commerce platform
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 2 Screenshot](food.png)
 
 **Food eCommerce platform** is a **A telemedicine application is a digital health platform designed to facilitate remote consultations between patients and healthcare professionals. It typically consists of a frontend interface, which includes separate web or mobile portals for both patients and doctors. Patients can book appointments, initiate video calls, view prescriptions, and access medical records, while doctors can manage their schedules, conduct virtual consultations, and issue electronic prescriptions. The backend handles all business logic, data storage, user authentication, and integration with services such as payment gateways and video conferencing tools like WebRTC or Twilio.
 
@@ -50,8 +50,8 @@ Core features of the application include user registration, appointment scheduli
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/gemmechubekele/)
-- **[Twitter]**(https://x.com/GemmechuBekele)
+- **LinkedIn**https://www.linkedin.com/in/gemmechubekele/
+- **X**https://x.com/GemmechuBekele
 
 
 ```

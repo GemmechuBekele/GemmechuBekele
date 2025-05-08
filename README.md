@@ -1,6 +1,6 @@
 # Hi there, I'm Gemmechu!👋
 
-![Banner Image](Banner.png)
+![Banner Image](Welcome-Banner.png)
 ## About Me 🚀
 
 I'm a passionate **Software Engineer /ProBackend developer, ProFrontend Developer/ Mobile Developer** with experience in **Python, JavaScript, Dart, ReactJS, NodeJS, Django, Numpy, Pandas, Matplotlib, React Native, MYSQL, PostgresSQL**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
@@ -50,8 +50,8 @@ Core features of the application include user registration, appointment scheduli
 
 ## Get in Touch 📬
 
-- **LinkedIn**https://www.linkedin.com/in/gemmechubekele/
-- **X**https://x.com/GemmechuBekele
+- **LinkedIn**:  https://www.linkedin.com/in/gemmechubekele/
+- **X**:  https://x.com/GemmechuBekele
 
 
 ```

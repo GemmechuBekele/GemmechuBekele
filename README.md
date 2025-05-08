@@ -1,6 +1,6 @@
 # Hi there, I'm Gemmechu!👋
 
-![Banner Image](welcome Banner.png)
+![Banner Image](Banner.png)
 ## About Me 🚀
 
 I'm a passionate **Software Engineer /ProBackend developer, ProFrontend Developer/ Mobile Developer** with experience in **Python, JavaScript, Dart, ReactJS, NodeJS, Django, Numpy, Pandas, Matplotlib, React Native, MYSQL, PostgresSQL**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.

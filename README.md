@@ -8,7 +8,7 @@ I'm a passionate **Software Engineer /ProBackend developer, ProFrontend Develope
 - 🌱 Currently learning: **NextJS, Docker, Jenkins, Flutter**
 - 🔭 Working on: **Web portfolio, Telemedicine Application**
 - 🌍 Languages: **JavaScript, Python, Dart, SQL**
-- 📫 How to reach me: **gemmechu.bekele.berga@gmail.com**
+- 📫 How to reach me: **amanuel.bekele.asefa@gmail.com**
 - ⚡ Fun fact: **I'm serious at work and help my co-worker**
 
 ## My Skills 🧠

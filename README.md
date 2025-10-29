@@ -35,7 +35,7 @@ I'm a passionate **Software Engineer /ProBackend developer, ProFrontend Develope
 
 The system stores medical records, appointment histories, and user profiles in a secure database, commonly using PostgreSQL, MySQL, or MongoDB. Security and data privacy are critical, and the application must comply with regulations such as HIPAA or GDPR. The platform is typically hosted on scalable cloud infrastructure like AWS or Google Cloud, ensuring high availability and performance.
 
-Core features of the application include user registration, appointment scheduling, real-time video and audio consultations, in-app messaging, e-prescriptions, payment processing, and notification systems. Advanced implementations may also integrate with wearable health devices for continuous monitoring and data collection.** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here]([project_1_repository_link](https://github.com/GemmechuBekele/telemedicine-application)).
+Core features of the application include user registration, appointment scheduling, real-time video and audio consultations, in-app messaging, e-prescriptions, payment processing, and notification systems. Advanced implementations may also integrate with wearable health devices for continuous monitoring and data collection.** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here]((https://github.com/GemmechuBekele/telemedicine-application)).
 
 ### Food e-Commerce platform
 

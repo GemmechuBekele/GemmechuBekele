@@ -1,4 +1,4 @@
-# Hi there, I'm Amanuel!👋
+# Hi there, I'm Amanuel! or Gemmechu!👋
 
 ![Banner Image](Welcome-Banner.png)
 ## About Me 🚀
